@@ -1,4 +1,4 @@
-RTS Camera source for Unreal Engine
+RTS Camera source code for Unreal Engine
 -------
 Developed for Unreal Engine 4.7
 
