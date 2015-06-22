@@ -8,9 +8,6 @@
 UCLASS()
 class RTSCAMERA_API ARtsCameraGameMode : public AGameMode
 {
-	GENERATED_BODY()	
-	
-public:
-	ARtsCamerasGameMode(const FObjectInitializer& ObjectInitializer);
+	GENERATED_UCLASS_BODY()
 	
 };
